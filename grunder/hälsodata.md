@@ -12,6 +12,8 @@ När man talar om hälsodata i juridiska sammanhang avser man oftast personuppgi
 
 Hälsodata är ofta, men inte alltid, personuppgifter. I många fall kan hälsodata samlas in, aggregeras eller anonymiseras så att de inte längre går att koppla till en enskild individ. Sådana uppgifter räknas då inte som personuppgifter enligt GDPR.
 
+[EU:s dataskyddsförordning (Datamängder)](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Datam%C3%A4ngder.md)
+
 ## **Olika typer av hälsodata**
 
 Hälsodata är ett brett begrepp och det finns många typer av hälsodata. 
