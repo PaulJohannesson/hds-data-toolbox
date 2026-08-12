@@ -1,0 +1,33 @@
+Folkhälsomyndigheten är Sveriges nationella kunskapsmyndighet för folkhälsofrågor. Uppdraget är att främja hälsa, förebygga ohälsa och skydda befolkningen mot hälsohot. Myndigheten samlar in, analyserar och publicerar hälsodata som underlag för uppföljning, beslut och tidig upptäckt av risker.
+
+Denna sida fokuserar på Folkhälsomyndighetens individdata. På XXXX finns mer information om dess öppna och aggregerade data. 
+
+## **Syfte**
+
+Syftet med Folkhälsomyndighetens individdata och statistik är att ge en återkommande och jämförbar bild av befolkningens hälsa och dess bestämningsfaktorer. Det omfattar analyser av sjukdomsförekomst, levnadsvanor, livsvillkor och miljöfaktorer, som underlag för beslut på nationell, regional och lokal nivå. 
+
+## **Innehåll**
+
+Till skillnad från Socialstyrelsens registerbaserade data bygger en stor del av Folkhälsomyndighetens statistik på återkommande nationella enkätundersökningar som speglar befolkningens upplevelser, vanor och livsvillkor.
+
+### **Nationella folkhälsoenkäten – Hälsa på lika villkor?**
+
+En nationell undersökning om hälsa, levnadsvanor och livsvillkor. Den genomfördes första gången 2004 och har därefter genomförts återkommande. [https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/](https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/) 
+
+### **Nationella miljöhälsoenkäten**
+
+En återkommande enkät, normalt vart fjärde år, som följer hur miljön påverkar hälsan. Den belyser exponering och besvär från till exempel luftföroreningar, buller och kemikalier, och presenteras även i myndighetens miljöhälsorapportering. [https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/miljohalsoenkaten/](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/miljohalsoenkaten/) 
+
+### **SmiNet – övervakning av anmälningspliktiga sjukdomar**
+
+SmiNet är det nationella system där vårdgivare och laboratorier rapporterar anmälningspliktiga sjukdomar enligt smittskyddslagen. Systemet används gemensamt av Folkhälsomyndigheten och landets smittskyddsenheter. [https://www.folkhalsomyndigheten.se/smittskydd-beredskap/overvakning-och-rapportering/sminet/](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/overvakning-och-rapportering/sminet/) 
+
+### **Nationella vaccinationsregistret**
+
+Det nationella vaccinationsregistret är ett hälsodataregister som används för att följa upp effekter av nationella vaccinationsprogram, inklusive vaccinationer mot covid-19. Rapporteringen är obligatorisk för ansvarig vårdgivare. [https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/nationella-vaccinationsregistret/](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/nationella-vaccinationsregistret/) 
+
+## **Få tillgång till data**
+
+Folkhälsomyndigheten kan lämna ut data på individnivå (mikrodata) eller på aggregerad nivå efter sekretessprövning. Data på individnivå lämnas bara ut för forskningsändamål ska etikgodkännande från Etikprövningsmyndigheten. Beställningar görs via myndighetens beställningssida. [folkhalsomyndigheten.se](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/bestalla-data/)
+
+**Beställ data:** [https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/bestalla-data/ folkhalsomyndigheten.se](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/bestalla-data/)
