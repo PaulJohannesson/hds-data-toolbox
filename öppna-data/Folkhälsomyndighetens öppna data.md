@@ -1,6 +1,6 @@
 Folkhälsomyndigheten är Sveriges nationella kunskapsmyndighet för folkhälsofrågor. Uppdraget är att främja hälsa, förebygga ohälsa och skydda befolkningen mot hälsohot. Myndigheten samlar in, analyserar och publicerar hälsodata som underlag för uppföljning, beslut och tidig upptäckt av risker.
 
-Denna sida fokuserar på aggregerad data. På XXXXX kan du läsa mer om Folkhälsomyndighetens individdata.
+Denna sida fokuserar på aggregerad data. Här kan du läsa mer om [Folkhälsomyndighetens individdata](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/Folkh%C3%A4lsomyndighetens%20individdata.md).
 
 ## **Syfte**
 
