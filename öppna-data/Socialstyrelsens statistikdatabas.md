@@ -1,6 +1,6 @@
 Socialstyrelsen är en statlig förvaltningsmyndighet under Socialdepartementet med det övergripande uppdraget att tillhandahålla kunskapsstöd, regler och statistik för att främja en god och jämlik hälso- och sjukvård samt socialtjänst i Sverige. Myndighetens statistikproduktion, och i synnerhet dess statistikdatabas, är ett centralt verktyg för att uppfylla detta uppdrag.
 
-Denna sida fokuserar på aggregerad data. På XXXXX kan du läsa mer om Socialstyrelsens individdata. 
+Denna sida fokuserar på aggregerad data. Här kan du läsa mer om [Socialstyrelsens individdata](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/Socialstyrelsens%20register%20f%C3%B6r%20individdata.md) 
 
 ## **Syfte**
 
@@ -22,13 +22,14 @@ Statistikdatabasen innehåller **aggregerad** och **anonym** statistik som huvud
 
 * **Hälso- och sjukvårdspersonal**
 
-Översikt över alla statistikämnen: [https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/ Socialstyrelsen](https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/)
+[Översikt över alla statistikämnen](https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/)
 
 ## **Få tillgång till data**
 
-* **Interaktiv statistikdatabas** – Sök, filtrera och presentera statistik som tabell, diagram eller karta. [https://www.socialstyrelsen.se/statistik-och-data/statistik/statistikdatabasen/](https://www.socialstyrelsen.se/statistik-och-data/statistik/statistikdatabasen/) [/statistik-statistikdatabas-handbok.pdf](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/dokument-webb/statistik/statistik-statistikdatabas-handbok.pdf?utm_source=chatgpt.com)
+* [Interaktiv statistikdatabas](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/dokument-webb/statistik/statistik-statistikdatabas-handbok.pdf?utm_source=chatgpt.com): Sök, filtrera och presentera statistik som tabell, diagram eller karta 
 
-* **Öppna data för utvecklare** – Hämta färdiga datafiler (CSV) per år och gör maskinella uttag via statistikdatabasens API. Ingång för utvecklare:  
-   [https://www.socialstyrelsen.se/statistik-och-data/statistik/for-utvecklare/](https://www.socialstyrelsen.se/statistik-och-data/statistik/for-utvecklare/) (CSV och API)  
-* Översikt över Socialstyrelsens öppna data: [https://www.socialstyrelsen.se/statistik-och-data/oppna-data/](https://www.socialstyrelsen.se/statistik-och-data/oppna-data/)  
-* Statistik som inte redan finns publicerad beställas som **statistikbeställning**. Detta erbjuds via Socialstyrelsens tjänst för statistikbeställningar. [https://bestalladata.socialstyrelsen.se/statistikbestallning](https://bestalladata.socialstyrelsen.se/statistikbestallning) 
+* [Öppna data för utvecklare](https://www.socialstyrelsen.se/statistik-och-data/statistik/for-utvecklare/): Hämta färdiga datafiler (CSV) per år och gör maskinella uttag via statistikdatabasens API
+   
+* [Översikt över Socialstyrelsens öppna data](https://www.socialstyrelsen.se/statistik-och-data/oppna-data/)
+  
+* Statistik som inte redan finns publicerad kan beställas som [statistikbeställning](https://bestalladata.socialstyrelsen.se/statistikbestallning) 
