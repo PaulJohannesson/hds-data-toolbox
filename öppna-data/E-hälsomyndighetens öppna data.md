@@ -18,8 +18,8 @@ Myndighetens öppna data bygger på inrapporterad försäljningsinformation och 
 
 Du når öppna datamängder och interaktiv statistik här:
 
-* **Öppna data hos E-hälsomyndigheten** – ingång med beskrivningar av datamängderna. [https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/oppna-data/](https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/oppna-data/) 
+* **[Öppna data hos E-hälsomyndigheten](https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/oppna-data/)** – ingång med beskrivningar av datamängderna.
 
-* **Statistikdatabasen** – gör egna val, jämförelser och exportera data. [https://statistik.ehalsomyndigheten.se/pxweb/sv/](https://statistik.ehalsomyndigheten.se/pxweb/sv/) 
+* **[Statistikdatabasen](https://statistik.ehalsomyndigheten.se/pxweb/sv/)** – gör egna val, jämförelser och exportera data. 
 
-* **Beställ skräddarsydd statistik** – för mer specifika frågor utöver öppna data. [https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/bestalla-statistik](https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/bestalla-statistik) 
+* **[Beställ skräddarsydd statistik](https://www.ehalsomyndigheten.se/yrkesverksam/statistik-och-lakemedelsforsaljning/bestalla-statistik)** – för mer specifika frågor utöver öppna data. 
