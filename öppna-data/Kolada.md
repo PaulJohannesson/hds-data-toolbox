@@ -10,10 +10,10 @@ Kolada rymmer tusentals nyckeltal och täcker både hälsorelaterade och andra k
 
 ## **Få tillgång till data**
 
-Via webbgränssnitt: sök, filtrera, visualisera och ladda ned tabeller direkt i Kolada.  
- [https://www.kolada.se/](https://www.kolada.se/)
+[Via webbgränssnitt](https://www.kolada.se/): sök, filtrera, visualisera och ladda ned tabeller direkt i Kolada.  
 
-Via programmeringsgränssnitt: hämta data maskinellt.  
- [https://api.kolada.se/v3/docs](https://api.kolada.se/v3/docs)
 
-Verktyget Jämföraren samlar nyckeltal per tema och gör det möjligt att följa utveckling över tid och mellan geografier.  [https://www.kolada.se/verktyg/jamforaren/](https://www.kolada.se/verktyg/jamforaren/) 
+[Via programmeringsgränssnitt](https://api.kolada.se/v3/docs): hämta data maskinellt.  
+ 
+
+[Verktyget Jämföraren](https://www.kolada.se/verktyg/jamforaren/): samlar nyckeltal per tema och gör det möjligt att följa utveckling över tid och mellan geografier. 
