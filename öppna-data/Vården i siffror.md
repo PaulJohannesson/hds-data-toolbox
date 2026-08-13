@@ -10,4 +10,4 @@ Webbplatsen visar kvalitetssäkrade indikatorer som speglar medicinska resultat,
 
 ## **Få tillgång till data**
 
-All statistik är öppet tillgänglig via webbplatsen [https://vardenisiffror.se/](https://vardenisiffror.se/?utm_source=chatgpt.com). 
+All statistik är öppet tillgänglig via webbplatsen [Vården i siffror](https://vardenisiffror.se/?utm_source=chatgpt.com). 
