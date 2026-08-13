@@ -1,8 +1,6 @@
-# **Öppna jämförelser**
-
 Öppna Jämförelser är ett samlingsnamn för de nationella jämförelser av kvalitet, resultat och kostnader som görs inom svensk hälso- och sjukvård samt socialtjänst. De publiceras främst av Socialstyrelsen och SKR.
 
-Öppna Jämförelser lanserades av Socialstyrelsen och dåvarande Sveriges Kommuner och Landsting (nu SKR) under 2000-talet. För hälso- och sjukvårdsdata har webbplatsen **[Vården i siffror](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/V%C3%A5rden%20i%20siffror.md)** (som drivs av SKR) i hög grad tagit över rollen att löpande presentera de data som tidigare ingick i Öppna Jämförelser. Begreppet "Öppna Jämförelser" lever dock kvar som ett samlingsbegrepp för denna typ av offentliggörande av jämförande data, särskilt från Socialstyrelsens sida.
+Öppna Jämförelser lanserades av Socialstyrelsen och dåvarande Sveriges Kommuner och Landsting (nu SKR) under 2000-talet. För hälso- och sjukvårdsdata har webbplatsen [Vården i siffror](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/V%C3%A5rden%20i%20siffror.md) (som drivs av SKR) i hög grad tagit över rollen att löpande presentera de data som tidigare ingick i Öppna Jämförelser. Begreppet "Öppna Jämförelser" lever dock kvar som ett samlingsbegrepp för denna typ av offentliggörande av jämförande data, särskilt från Socialstyrelsens sida.
 
 ## **Syfte**
 
