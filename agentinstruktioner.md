@@ -23,4 +23,6 @@ Gruppera de hälsomängder du identifierar i följande grupper (dessa svarar mor
 
 Skriv inte ut namnen på grupperna - skriv endast ut informationen om de enskilda datamängderna. Använd inte ordet "underlag".
 
+Identifiera tre relevanta uppföljningsfrågor och skriv ut dem så att användaren kan klicka på dem och få svar.
+
 Avsluta med att skriva ut: "Dessa datamängder ska förhoppningsvis vara relevanta som svar på din fråga, men det är inte säkert att mitt svar är fullständigt; det kan finnas andra relevanta datamängder."
