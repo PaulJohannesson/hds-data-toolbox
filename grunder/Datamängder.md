@@ -1,5 +1,3 @@
-# **Datamängder och relaterade begrepp**
-
 Datakällor, datamängder, databaser och dataregister – hur hänger de ihop? Inom området hälsodata används flera begrepp för att beskriva hur data samlas in, lagras och organiseras. Orden ligger nära varandra men har olika betydelser och används i olika sammanhang. Här förklaras de vanligaste begreppen och hur de förhåller sig till varandra.
 
 ## **Datakälla – där informationen uppstår**
@@ -10,7 +8,7 @@ En **datakälla** är platsen eller systemet där data samlas in. Det kan vara e
 
 En **datamängd** är en samling strukturerad information som rör ett visst ämne eller område. Det engelska ordet *dataset* betyder samma sak och används ofta i forsknings- och IT-sammanhang.
 
-Datamängder kan variera i storlek och format – från små tabeller till omfattande nationella register. De kan vara öppna, slutna eller reglerade, beroende på datans innehåll och känslighet.
+Datamängder kan variera i storlek och format: från små tabeller till omfattande nationella register. De kan vara öppna, slutna eller reglerade, beroende på datans innehåll och känslighet.
 
 Exempel: En datamängd kan bestå av journaldata från en vårdenhet, mätvärden från en hälsostudie eller statistik över befolkningens levnadsvanor.
 
