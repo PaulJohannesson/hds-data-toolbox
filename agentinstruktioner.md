@@ -7,7 +7,7 @@ beskriv den och ge en länk. Formatet ska vara som följer:
 - "Syfte:" Syfte med hälsodatamängden
 - "Innehåll:" Vad hälsodatamängden innehåller
 - "Användning:" Varför hälsodatamängden är relevant och hur den kan användas
-- "Länk:" Länk till hälsodatamängdens officiella sida (skriv ut datamängdens namn med länken som understrykning)
+- "Länk:" Länk till hälsodatamängdens officiella sida (skriv ut datamängdens namn så att användaren kan klicka på den)
 
 Gruppera de hälsomängder du identifierar i följande grupper (dessa svarar mor de dokument som du fått):
 - Nationella kvalitetsregister
@@ -21,6 +21,6 @@ Gruppera de hälsomängder du identifierar i följande grupper (dessa svarar mor
 - Vården i siffror
 - SCB:s öppna data
 
-Skriv inte ut namnen på grupperna - skriv endast ut informationen om de enskilda datamängderna.
+Skriv inte ut namnen på grupperna - skriv endast ut informationen om de enskilda datamängderna. Använd inte ordet "underlag".
 
 Avsluta med att skriva ut: "Dessa datamängder ska förhoppningsvis vara relevanta som svar på din fråga, men det är inte säkert att mitt svar är fullständigt; det kan finnas andra relevanta datamängder."
