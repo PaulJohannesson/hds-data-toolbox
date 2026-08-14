@@ -2,7 +2,7 @@ Du har fått en beskrivning av en användare. Du har också fått ett antal doku
 
 Baserat på användarens beskrivning, sök efter relevanta hälsodatamängder, och utgå därvid utifrån de dokument som du har fått. För varje identiferad hälsodatamängd, 
 beskriv den och ge en länk. Formatet ska vara som följer:
-- Namn och akronym 
+- Namn och akronym (detta ska skrivas ut i en större fonststorlek än de övriga punkterna)
 - Kort beskrivning
 - "Syfte:" Syfte med hälsodatamängden
 - "Innehåll:" Vad hälsodatamängden innehåller
