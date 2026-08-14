@@ -1,5 +1,3 @@
-
-
 ## **Vad är hälsodata?**
 
 Begreppet *hälsodata* saknar en helt fastställd definition, men används ofta för att beskriva information som rör hälsa, vård eller livssituation – för en person eller för en grupp.
@@ -11,8 +9,6 @@ Det kan handla om allt från data om levnadsvanor, den fysiska miljön vi lever 
 När man talar om hälsodata i juridiska sammanhang avser man oftast personuppgifter om hälsa. Enligt [EU:s dataskyddsförordning (GDPR)](https://www.imy.se/verksamhet/dataskydd/det-har-galler-enligt-gdpr/) är dessa en särskild kategori av känsliga personuppgifter, med ett starkt juridiskt skydd.
 
 Hälsodata är ofta, men inte alltid, personuppgifter. I många fall kan hälsodata samlas in, aggregeras eller anonymiseras så att de inte längre går att koppla till en enskild individ. Sådana uppgifter räknas då inte som personuppgifter enligt GDPR.
-
-[EU:s dataskyddsförordning (Datamängder)](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Datam%C3%A4ngder.md)
 
 ## **Olika typer av hälsodata**
 
@@ -27,6 +23,7 @@ Hälsodata är ett brett begrepp och det finns många typer av hälsodata.
 **Socioekonomiska data**. Uppgifter som sätter hälsan i ett sammanhang. Det kan gälla yrke, utbildning, inkomst eller bostadsområde.
 
 **Organisatoriska data**. Information om vårdverksamheter, personalens yrken och geografisk spridning inom vården.  
+
 **Ontologiska data**. Tekniska data som beskriver klassifikationer, kodsystem och terminologier som används för att strukturera vårdinformation.
 
 **Metadata**. ”Data om data” – information som beskriver en datamängds innehåll, ursprung och kvalitet.
