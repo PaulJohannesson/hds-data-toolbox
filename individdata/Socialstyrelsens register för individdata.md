@@ -34,8 +34,8 @@ Processen för utlämnande är strikt reglerad för att skydda individers integr
 
 3. **Etikprövning**: godkännande krävs vid forskning.
 
-4. **Sekretessprövning**: Socialstyrelsen prövar utlämnandet. [https://bestalladata.socialstyrelsen.se/data-for-forskning/sekretessprovning/](https://bestalladata.socialstyrelsen.se/data-for-forskning/sekretessprovning/) 
+4. **Sekretessprövning**: Socialstyrelsen [prövar utlämnandet](https://bestalladata.socialstyrelsen.se/data-for-forskning/sekretessprovning/). 
 
 5. **Beslut och leverans**: data lämnas ut i avidentifierad eller pseudonymiserad form; avgift kan tillkomma.
 
-Översikt över Socialstyrelsens register. [https://www.socialstyrelsen.se/statistik-och-data/register/](https://www.socialstyrelsen.se/statistik-och-data/register/) 
+[Översikt](https://www.socialstyrelsen.se/statistik-och-data/register/) över Socialstyrelsens register.
