@@ -32,7 +32,7 @@ Processen för att få tillgång till regionala data innefattar vanligtvis etikp
 
 ### **Västra Götalandsregionen – Vårddatabasen Vega**
 
-[Vårddatabasen Vega](https://www.vgregion.se/statistik-analysportalen/halsa-och-vard/vardkonsumtionochsjukdomar/) är Västra Götalandsregionens centrala datalager som samlar vårdkontakter från både regionens egna och privata vårdgivare med avtal. Innehållet omfattar uppgifter om vårdkontakter, vårdenheter och klinisk information såsom diagnoser enligt ICD-10, åtgärder enligt. 
+[Vårddatabasen Vega](https://www.vgregion.se/statistik-analysportalen/halsa-och-vard/vardkonsumtionochsjukdomar/) är Västra Götalandsregionens centrala datalager som samlar vårdkontakter från både regionens egna och privata vårdgivare med avtal. Innehållet omfattar uppgifter om vårdkontakter, vårdenheter och klinisk information såsom diagnoser enligt ICD-10. 
 
 ### **Region Kalmar län – regionalt datalager**
 
