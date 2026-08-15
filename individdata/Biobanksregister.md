@@ -12,7 +12,7 @@ Biobanker i Sverige är en nationell resurs för vård och forskning. De kan anv
 
 Prover organiseras ofta i **provsamlingar** med ett definierat syfte, en population och en tidsperiod. En biobank kan innehålla många provsamlingar. Ett praktiskt sätt att tänka är: biobanken är arkivskåpet, och varje provsamling är en mapp i skåpet.
 
-**Biobanksregister** är det informationssystem som beskriver vad biobanken innehåller. Registret lagrar uppgifter och metadata om prover och provsamlingar, till exempel provtyp, provtagningsdatum, förvaringsplats och villkor för användning. [https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/)
+**Biobanksregister** är det informationssystem som beskriver vad biobanken innehåller. Registret lagrar uppgifter och metadata om prover och provsamlingar, till exempel provtyp, provtagningsdatum, förvaringsplats och [villkor för användning](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/).
 
 ### **Vad innehåller ett biobanksregister?**
 
@@ -36,9 +36,10 @@ Till exempel:
 
 * **Biobanksansvarig**: utsedd av huvudmannen och ansvarar för drift, kvalitet och beslut inom biobanken.
 
-* **Biobank Sverige**: nationell infrastruktur som samordnar processer, it-stöd och vägledning. Äger inga prover men förenklar tillgång över regionsgränser. [https://biobanksverige.se/wp-content/uploads/2025-3-roller-och-ansvar-avseende-huvudman-biobanksansvarig-forskningshuvudman-mfl.pdf](https://biobanksverige.se/wp-content/uploads/2025-3-roller-och-ansvar-avseende-huvudman-biobanksansvarig-forskningshuvudman-mfl.pdf)
+* **[Biobank Sverige](https://biobanksverige.se/wp-content/uploads/2025-3-roller-och-ansvar-avseende-huvudman-biobanksansvarig-forskningshuvudman-mfl.pdf)**: nationell infrastruktur som samordnar processer, it-stöd och vägledning. Äger inga prover men förenklar tillgång över regionsgränser. 
 
-* **Inspektionen för vård och omsorg (IVO)**: tillsynsmyndighet som för nationellt register över biobanker dit biobanker ska anmälas. [https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/)
+* **[Inspektionen för vård och omsorg (IVO)](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/)**
+: tillsynsmyndighet som för nationellt register över biobanker dit biobanker ska anmälas. 
 
 ## **Få tillgång till data**
 
@@ -53,14 +54,14 @@ Så får forskare tillgång till prover och data:
 4. **Uttag och leverans**: prover och tillhörande data lämnas i regel i pseudonymiserad form. Direkta identiteter lämnas inte ut.
 
 Praktisk vägledning och ansökningsstöd:  
- Biobank Sverige – Forskningsguiden – [https://biobanksverige.se/forskning/forskningsguiden/](https://biobanksverige.se/forskning/forskningsguiden/)  IVO – Biobanksregistret (anmälan och tillsyn) – [https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/)
+[Biobank Sverige – Forskningsguiden](https://biobanksverige.se/forskning/forskningsguiden/)  
+[IVO – Biobanksregistret](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/)
 
 ## **Lista över biobanksregister**
 
 Det finns inte en enda samlad lista över alla specifika "biobanksregister" på samma sätt som för kvalitetsregister, eftersom proverna ofta är kopplade till vårdenheter eller specifika forskningsprojekt.
 
-Den bästa och mest kompletta ingången är via [**Biobank Sverige**](https://biobanksverige.se/). De har ett nationellt verktyg, **Svenska Biobanksregistret (SBR)**, som ger en översikt över vilka provsamlingar som finns tillgängliga för forskning. [https://biobanksverige.se/forskning/svenska-biobanksregistret/](https://biobanksverige.se/forskning/svenska-biobanksregistret/) 
-
+Den bästa och mest kompletta ingången är via [**Biobank Sverige**](https://biobanksverige.se/). De har ett nationellt verktyg, **[Svenska Biobanksregistret (SBR)](https://biobanksverige.se/forskning/svenska-biobanksregistret/)**, som ger en översikt över vilka provsamlingar som finns tillgängliga för forskning. 
 På denna sida kan användare söka efter och få information om:
 
 * Vilka provsamlingar som finns inom olika diagnosområden (till exempel cancer, hjärt-kärlsjukdom, neurologi).  
