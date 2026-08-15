@@ -12,19 +12,19 @@ Till skillnad från Socialstyrelsens registerbaserade data bygger en stor del av
 
 ### **Nationella folkhälsoenkäten – Hälsa på lika villkor?**
 
-En nationell undersökning om hälsa, levnadsvanor och livsvillkor. Den genomfördes första gången 2004 och har därefter genomförts återkommande. [Länk](https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/) 
+En nationell undersökning om hälsa, levnadsvanor och livsvillkor. Den genomfördes första gången 2004 och har därefter genomförts återkommande. [Läs mer om Nationella folkhälsoenkäten](https://www.scb.se/hitta-statistik/statistik-efter-amne/folkhalsa/folkhalsans-utveckling/nationella-folkhalsoenkaten--halsa-pa-lika-villkor/) 
 
 ### **Nationella miljöhälsoenkäten**
 
-En återkommande enkät, normalt vart fjärde år, som följer hur miljön påverkar hälsan. Den belyser exponering och besvär från till exempel luftföroreningar, buller och kemikalier, och presenteras även i myndighetens miljöhälsorapportering. [Länk](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/miljohalsoenkaten/) 
+En återkommande enkät, normalt vart fjärde år, som följer hur miljön påverkar hälsan. Den belyser exponering och besvär från till exempel luftföroreningar, buller och kemikalier, och presenteras även i myndighetens miljöhälsorapportering. [Läs mer om Nationella miljöhälsoenkäten](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/miljohalsoenkaten/) 
 
 ### **SmiNet – övervakning av anmälningspliktiga sjukdomar**
 
-SmiNet är det nationella system där vårdgivare och laboratorier rapporterar anmälningspliktiga sjukdomar enligt smittskyddslagen. Systemet används gemensamt av Folkhälsomyndigheten och landets smittskyddsenheter. [Länk](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/overvakning-och-rapportering/sminet/) 
+SmiNet är det nationella system där vårdgivare och laboratorier rapporterar anmälningspliktiga sjukdomar enligt smittskyddslagen. Systemet används gemensamt av Folkhälsomyndigheten och landets smittskyddsenheter. [Läs mer om SmiNet](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/overvakning-och-rapportering/sminet/) 
 
 ### **Nationella vaccinationsregistret**
 
-Det nationella vaccinationsregistret är ett hälsodataregister som används för att följa upp effekter av nationella vaccinationsprogram, inklusive vaccinationer mot covid-19. Rapporteringen är obligatorisk för ansvarig vårdgivare. [Länk](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/nationella-vaccinationsregistret/) 
+Det nationella vaccinationsregistret är ett hälsodataregister som används för att följa upp effekter av nationella vaccinationsprogram, inklusive vaccinationer mot covid-19. Rapporteringen är obligatorisk för ansvarig vårdgivare. [Läs mer om Nationella vaccinationsregistret](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/vaccinationer/nationella-vaccinationsregistret/) 
 
 ## **Få tillgång till data**
 
