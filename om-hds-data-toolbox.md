@@ -3,12 +3,12 @@ HDS Data Toolbox är en digital verktygslåda för dig som arbetar med projekt, 
 ## Det här hittar du
 
 * **Grunder** – introduktioner till hälsodata, datamängder, individdata, aggregerade data samt öppna och slutna data.
-* **Guider** – praktiska råd om hur du identifierar ditt databehov, hittar datakällor och förbereder en förfrågan.
+* **Guider** – praktiska råd om hur du identifierar ditt databehov, hittar datamängder och förbereder en förfrågan.
 * **Individdata** – information om bland annat nationella kvalitetsregister, myndighetsregister, biobanksregister och regionala hälsodata.
 * **Öppna data** – presentationer av svenska och europeiska dataportaler och statistikdatabaser.
 * **AI-agent** – ett stöd för att identifiera hälsodatamängder som kan vara relevanta för ett visst projekt eller användningsområde.
 
-HDS Data Toolbox innehåller inte själva hälsodatan. Verktygslådan beskriver i stället olika datakällor och länkar vidare till de organisationer som ansvarar för dem. Det är respektive datainnehavare som avgör om och på vilka villkor data kan göras tillgängliga.
+HDS Data Toolbox innehåller inte själva hälsodatan. Verktygslådan beskriver i stället olika datamängder och länkar vidare till de organisationer som ansvarar för dem. Det är respektive datainnehavare som avgör om och på vilka villkor data kan göras tillgängliga.
 
 För information om juridiska frågor kring hälsodata hänvisar vi till [HDS Legal Toolbox](https://legaltoolbox.healthdatasweden.eu/).
 
