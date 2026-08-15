@@ -24,14 +24,12 @@
 
 ### **Kartläggning av datamängder av nationellt intresse på hälsodataområdet**
 
-Socialstyrelsens kartläggning av
-*Socialstyrelsen (2022).* Beskriver hälsodatakategorierna ovan och Sveriges behov av hälsodata.  
- [Läs rapporten (PDF)](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-3-7781.pdf)
+Socialstyrelsens [Kartläggning av datamängder av nationellt intresse på hälsodataområdet (2022)](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-3-7781.pdf) 
+beskriver Sveriges behov av hälsodata.   
 
 ### **Europeiska kommissionen – European Health Data Space (EHDS)**
 
-EU:s initiativ för ett gemensamt europeiskt dataområde för hälsa.  
-[https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds\_sv](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_sv) 
+[EU:s initiativ för ett gemensamt europeiskt dataområde för hälsa](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_sv) 
 
 ### **OECD Health Statistics**
 
