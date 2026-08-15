@@ -2,7 +2,7 @@ Ett **nationellt kvalitetsregister** är ett dataregister som systematiskt samla
 
 Sverige har lång tradition av hälsodataregister, med rötter i Cancerregistret från 1958\. De moderna kvalitetsregistren växte fram under 1970- och 80-talen, ofta initierade av vårdprofessioner som ville följa sina resultat systematiskt.
 
-Ansvar för kvalitetsregistern är vanligtvis delat:
+Ansvar för ett kvalitetsregister är vanligtvis delat:
 
 * **Registerhållare**: operativt ansvarig organisation – oftast en region eller klinik
 
