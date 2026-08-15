@@ -28,4 +28,4 @@ Det nationella vaccinationsregistret är ett hälsodataregister som används fö
 
 ## **Få tillgång till data**
 
-Folkhälsomyndigheten kan lämna ut data på individnivå (mikrodata) eller på aggregerad nivå efter sekretessprövning. Data på individnivå lämnas bara ut för forskningsändamål ska etikgodkännande från Etikprövningsmyndigheten. Beställningar görs via [myndighetens beställningssida](https://www.folkhalsomyndigheten.se/statistik-och-data/bestall-vara-data). 
+Folkhälsomyndigheten kan lämna ut data på individnivå (mikrodata) eller på aggregerad nivå efter sekretessprövning. Data på individnivå lämnas bara ut för forskningsändamål med etikgodkännande från Etikprövningsmyndigheten. Beställningar görs via [myndighetens beställningssida](https://www.folkhalsomyndigheten.se/statistik-och-data/bestall-vara-data). 
