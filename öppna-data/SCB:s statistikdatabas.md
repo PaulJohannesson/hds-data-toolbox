@@ -2,13 +2,12 @@ Statistikmyndigheten SCB är Sveriges nationella statistikmyndighet. Inom hälso
 
 ## **Syfte**
 
-Statistikdatabasen hos SCB är skapad för att ge allmänheten, företag och andra användare enkel tillgång till officiell och aggregerad statistik. Den samlar statistik från SCB och från andra statistikansvariga myndigheter och fungerar som en gemensam ingång till data inom många ämnen, däribland hälso- och sjukvård.
+Statistikdatabasen hos SCB är skapad för att ge allmänheten, företag och andra användare enkel tillgång till officiell och aggregerad statistik. Den samlar statistik från SCB och andra statistikansvariga myndigheter och fungerar som en gemensam ingång till data inom många ämnen, däribland hälso- och sjukvård.
 
 ## **Innehåll**
 
-Statistikdatabasen innehåller officiell statistik från SCB och från andra ansvariga myndigheter. För hälsorelaterade ämnen är Socialstyrelsen ansvarig myndighet, men datan är åtkomliga via SCB:s plattform. 
+Statistikdatabasen innehåller officiell statistik från SCB och andra ansvariga myndigheter. För hälsorelaterade ämnen är Socialstyrelsen ansvarig myndighet, men uppgifterna är tillgängliga via SCB:s plattform. 
 
-**Exempel på SCB:s egen hälsorelaterade statistik i databasen**  
 [Hälsoräkenskaperna](https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/halsorakenskaper/) 
 beskriver hälso- och sjukvårdens utgifter på makronivå, fördelade efter ändamål, finansiär och typ av producent, och sätter utgifterna i relation till bruttonationalprodukten. Statistiken publiceras årsvis och är aggregerad. 
 
