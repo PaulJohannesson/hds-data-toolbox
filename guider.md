@@ -13,7 +13,7 @@
 
 [Hälsodata.se](https://halsodata.se/) riktar sig främst till innovatörer med en sjustegsmodell för projekt som avser använda hälsodata. 
 
-### [Dataguiden.se**
+### **Dataguiden.se**
 
 [Dataguiden.se](http://dataguiden.se) är Vetenskapsrådets centrala informations- och vägledningsportal för forskare och andra som vill använda register- och hälsodata. Portalen är *inte* en databas med data, utan en guide som hjälper forskare att:
 
@@ -33,10 +33,10 @@ beskriver Sveriges behov av hälsodata.
 
 ### **OECD Health Statistics**
 
- En databas med jämförbar statistik om hälsa och vårdsystem i OECD-länder.  
- [stats.oecd.org](http://stats.oecd.org) 
+[OECD Health Statistics](http://stats.oecd.org) är en databas med jämförbar statistik om hälsa och vårdsystem i OECD-länder.  
+
 
 ### **WHO – Global Health Observatory (GHO)**
 
- Världshälsoorganisationens portal för global hälsodata och statistik.  
- [who.int/data/gho](http://who.int/data/gho)   
+ [Global Health Observatory](http://who.int/data/gho) är Världshälsoorganisationens portal för global hälsodata och statistik.  
+ 
