@@ -15,12 +15,12 @@ Sveriges hälso- och sjukvård är decentraliserad. Varje region har långtgåen
 Flera regioner har inrättat särskilda funktioner som samordnar och stöttar vid ansökningar om data för sekundäranvändning:
 
 * **Region Stockholm – Centrum för hälsodata**: väg in för frågor, rådgivning och samordning av datauttag för forskning och innovation.  
-   Läs mer: [https://www.regionstockholm.se/forskning-innovation/halsodata/](https://www.regionstockholm.se/forskning-innovation/halsodata/)  
+  [Läs mer här](https://www.regionstockholm.se/forskning-innovation/halsodata/)  
 * **Västra Götalandsregionen – Gothia Forum**: regional nod som erbjuder stöd genom hela processen för kliniska studier och fungerar som kontaktpunkt för forskare och företag.  
-   Läs mer: [https://www.vgregion.se/ov/gothia-forum/](https://www.vgregion.se/ov/gothia-forum) och [https://www.kliniskastudier.se/gothia-forum/](https://www.kliniskastudier.se/gothia-forum/)
-
+   [Läs mer](https://www.vgregion.se/ov/gothia-forum)
+  
 På nationell nivå samordnar **Kliniska Studier Sverige** stödet för kliniska studier i samarbete mellan de sex sjukvårdsregionerna. Strukturen är federerad med regionala noder som tillsammans utgör en gemensam infrastruktur.  
- Läs mer: [https://www.kliniskastudier.se/](https://www.kliniskastudier.se/) och [https://www.kliniskastudier.se/forskningsprocessen/ansokan](https://www.kliniskastudier.se/forskningsprocessen/ansokan) 
+[Läs mer](https://www.kliniskastudier.se/)  
 
 Processen för att få tillgång till regionala data innefattar vanligtvis etikprövning, sekretessprövning och avtal om informationssäkerhet. Krav och handläggning varierar mellan regionerna. Information om hur man kan begära uttag av hälsodata från de olika regionerna finns på [denna lista](https://kliniskastudier.se/forskningsstod-och-radgivning/uttag-av-halsodata) från Kliniska Studier Sverige.
 
@@ -28,7 +28,7 @@ Processen för att få tillgång till regionala data innefattar vanligtvis etikp
 
 ### **Region Stockholm – VAL-databaserna**
 
-VAL (Vårdanalysdatabaslager) är Region Stockholms centrala datalager för uppföljning, planering, ersättningar och verksamhetsstyrning och används även som underlag för forskning efter prövning. Databaserna samlar individbaserade uppgifter från flera källsystem, där journalsystemet TakeCare är en av de viktigaste, och innehåller uppgifter om öppenvård och slutenvård, diagnoser enligt ICD-10, åtgärder enligt Klassifikation av vårdåtgärder, demografi, kostnader samt utlämnade av recept via delmängden VAL-LÄK. Mer information: VAL-handbok – [https://www.regionstockholm.se/49062d/contentassets/42b155a7bb7b40a3ba639d84e180be9d/val-databaserna.pdf](https://www.regionstockholm.se/49062d/contentassets/42b155a7bb7b40a3ba639d84e180be9d/val-databaserna.pdf) och Region Stockholms väg in för hälsodata – [https://www.regionstockholm.se/forskning-innovation/halsodata/](https://www.regionstockholm.se/forskning-innovation/halsodata/)
+VAL (Vårdanalysdatabaslager) är Region Stockholms centrala datalager för uppföljning, planering, ersättningar och verksamhetsstyrning och används även som underlag för forskning efter prövning. Databaserna samlar individbaserade uppgifter från flera källsystem, där journalsystemet TakeCare är en av de viktigaste, och innehåller uppgifter om öppenvård och slutenvård, diagnoser enligt ICD-10, åtgärder enligt Klassifikation av vårdåtgärder, demografi, kostnader samt utlämnade av recept via delmängden VAL-LÄK. Mer information: VAL-handbok – [VAL-handbok](https://www.regionstockholm.se/49062d/contentassets/42b155a7bb7b40a3ba639d84e180be9d/val-databaserna.pdf) och Region Stockholms väg in för hälsodata – [Region Stockholms väg in för hälsodata](https://www.regionstockholm.se/forskning-innovation/halsodata/)
 
 ### **Västra Götalandsregionen – Vårddatabasen Vega**
 
