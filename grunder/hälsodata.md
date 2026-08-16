@@ -24,7 +24,7 @@ Hälsodata är ett brett begrepp och det finns många typer av hälsodata.
 
 **Organisatoriska data**. Information om vårdverksamheter, personalens yrken och geografisk spridning inom vården.  
 
-**Ontologiska data**. Tekniska data som beskriver klassifikationer, kodsystem och terminologier som används för att strukturera vårdinformation.
+**Ontologiska data**. Data som beskriver klassifikationer, kodsystem och terminologier som används för att strukturera vårdinformation.
 
 **Metadata**. ”Data om data” – information som beskriver en datamängds innehåll, ursprung och kvalitet.
 
