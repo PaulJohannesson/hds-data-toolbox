@@ -2,7 +2,7 @@ Att pseudonymisera och anonymisera personuppgifter, särskilt känsliga sådana 
 
 ### **Vad innebär pseudonymisering?**
 
-När personuppgifter pseudonymiseras ersätter man direkta identifierare (som namn och personnummer) med en kod eller pseudonym. Eftersom det fortfarande finns en nyckel som gör det möjligt att koppla tillbaka uppgifterna till individen, är pseudonymiserade uppgifter fortfarande personuppgifter enligt GDPR. Pseudonymisering räknas dock som en effektiv teknisk skyddsåtgärd som avsevärt minskar risken för integritetsintrång.
+När personuppgifter pseudonymiseras ersätter man direkta identifierare (som namn och personnummer) med en kod eller pseudonym. Eftersom det fortfarande finns en nyckel som gör det möjligt att koppla tillbaka uppgifterna till individen, anses det normalt att pseudonymiserade uppgifter fortfarande är personuppgifter enligt GDPR. Men bedömningen kan påverkas av vem som tar emot uppgifterna och vilka faktiska och rättsliga möjligheter mottagaren har att identifiera personerna. Pseudonymisering räknas dock som en effektiv teknisk skyddsåtgärd som avsevärt minskar risken för integritetsintrång.
 
 ### **Hur fungerar pseudonymisering i praktiken?**
 
@@ -33,7 +33,7 @@ Ett tredje, alltmer populärt angreppssätt är syntetisering. Till skillnad fr�
 
 Processen involverar ofta avancerade maskininlärningsmodeller, så kallade generativa modeller (exempelvis GANs – Generative Adversarial Networks). Dessa modeller tränas på den verkliga mikrodatan i en datamängd för att lära sig dess fördelning och variabelsamband. När modellen är tränad kan den generera syntetisk mikrodata som statistiskt liknar originalet, men som är helt fiktiva.  
 
-Om syntetiseringen är korrekt utförd betraktas datan som anonym och faller därmed utanför GDPR, eftersom den aldrig har varit kopplad till en identifierbar person.
+Om syntetiseringen är korrekt utförd betraktas datan som anonym och faller därmed utanför GDPR, eftersom den då inte är kopplad till identifierbara personer.
 
 ### **Fördelar och utmaningar med syntetisk data**
 
