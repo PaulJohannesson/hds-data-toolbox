@@ -10,5 +10,5 @@ Här förklaras grundläggande begrepp som är viktiga för den som vill hitta, 
 
 - [Öppen och sluten data](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/%C3%96ppen%20och%20sluten%20data.md) beskriver olika nivåer av tillgång till data och vilka villkor som kan gälla för användning.
 
-   [Integritetshöjande tekniker](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Integritetsh%C3%B6jande%20tekniker.md) presenterar tekniker och metoder som kan minska integritetsriskerna när hälsodata behandlas och analyseras.
+- [Integritetshöjande tekniker](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Integritetsh%C3%B6jande%20tekniker.md) presenterar tekniker och metoder som kan minska integritetsriskerna när hälsodata behandlas och analyseras.
 
