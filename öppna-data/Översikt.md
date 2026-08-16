@@ -1,4 +1,4 @@
-Dokumenten i den här delen beskriver databaser, dataportaler och andra tjänster som ger tillgång till öppna data inom hälsa, vård, folkhälsa och närliggande områden. De kan användas för att hitta statistik, jämföra verksamheter, analysera samhällsutvecklingen och identifiera datamängder som är relevanta för utveckling och utvärdering av nya produkter och tjänster.
+Här finns databaser, dataportaler och andra tjänster som ger tillgång till öppna data inom hälsa, vård, folkhälsa och närliggande områden. De kan användas för att hitta statistik, jämföra verksamheter, analysera samhällsutvecklingen och identifiera datamängder som är relevanta för utveckling och utvärdering av nya produkter och tjänster.
 
 ## Datakällor och dataportaler
 
@@ -24,4 +24,3 @@ Dokumenten i den här delen beskriver databaser, dataportaler och andra tjänste
 
 - [Öppna jämförelser](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/%C3%96ppna%20j%C3%A4mf%C3%B6relser.md) beskriver jämförbar statistik om kvalitet, resultat och kostnader inom välfärdens verksamheter.
 
-Följ länkarna för mer information om respektive datakälla eller tjänst.
