@@ -2,7 +2,7 @@ Vad är skillnaden mellan öppen data, sluten data, reglerad data och delad data
 
 ## **Öppen data**
 
-**Öppen data** är data som är fritt tillgänglig för vem som helst att använda, återanvända och distribuera utan restriktioner eller avgifter. Öppen data får inte innehålla personuppgifter, och därför är öppen data om individer alltid anonymiserad data, till exempel Socialstyrelsens statistik om dödsorsaker. 
+**Öppen data** är data som är fritt tillgänglig för vem som helst att använda, återanvända och distribuera utan restriktioner eller avgifter. Öppna hälsodata är normalt aggregerade eller anonymiserade så att enskilda personer inte kan identifieras.  
 
 ## **Sluten data** 
 
