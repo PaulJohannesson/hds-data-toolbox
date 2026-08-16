@@ -4,7 +4,7 @@ Här presenteras svenska datakällor som innehåller individbaserade hälsodata 
 
 - [Socialstyrelsens hälsodataregister](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/socialstyrelsens-halsodataregister.md) innehåller nationella uppgifter om bland annat vårdkontakter, diagnoser, behandlingar, läkemedel och dödsorsaker.
 
-- [Folkhälsomyndighetens register](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/folkhalsomyndighetens-register.md) innehåller individbaserade uppgifter inom smittskydd och andra delar av folkhälsoområdet.
+- [Folkhälsomyndighetens register](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/Folkh%C3%A4lsomyndighetens%20individdata.md) innehåller individbaserade uppgifter inom smittskydd och andra delar av folkhälsoområdet.
 
 - [Nationella kvalitetsregister](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/individdata/nationella-kvalitetsregister.md) innehåller uppgifter om vårdinsatser och resultat för bestämda diagnoser, behandlingar eller patientgrupper.
 
