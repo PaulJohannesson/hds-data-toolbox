@@ -48,7 +48,7 @@ För att erhålla data ur ett nationellt kvalitetsregister krävs ofta följande
 
 3. **Sekretessprövning**: registerhållaren bedömer att utlämnandet inte strider mot lagar och skyddar integriteten
 
-4. **Beslut och utlämning**: data lämnas alltid ut i form som är anonymiserad eller pseudonymiserad
+4. **Beslut och utlämning**: data lämnas ut efter prövning och i form som ofta är anonymiserad eller pseudonymiserad
 
 Privata företag kan bara i vissa fall få tillgång till personuppgifter från kvalitetsregister för forsknings- eller innovationsändamål. Ett vanligt krav är att projektet bedrivs i samarbete med en offentlig aktör (till exempel universitet eller region). Dock finns även öppna sammanställningar av aggregerade data, vilket kan vara tillräckligt för många syften. 
 
