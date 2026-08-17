@@ -42,7 +42,7 @@ Utmaningarna ligger i kvaliteten och säkerheten. Högkvalitativ syntetisk data 
 
 ## **Sammanfattning av skillnaderna**
 
-| Aspekt | Pseudonymisering | Anonymisering (Klassisk) | Syntetisering |
+| Aspekt | Pseudonymisering | Anonymisering | Syntetisering |
 | :---- | :---- | :---- | :---- |
 | Metod | Ersätter identifierare med kod. | Modifierar/tar bort data för att hindra identifiering. | Skapar ny, konstgjord data baserat på mönster. |
 | Är data fortfarande personuppgifter? | Ja, omfattas av GDPR. | Nej, faller utanför GDPR (om lyckad). | Nej, faller utanför GDPR (om lyckad). |
