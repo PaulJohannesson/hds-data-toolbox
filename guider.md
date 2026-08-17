@@ -12,7 +12,7 @@ Att hitta rätt hälsodata handlar inte bara om att veta var data finns. Du beh�
 
 * **Kartlägg datamängden innan du beställer data.** En formell begäran om åtkomst till data kan vara svår att bedöma om behovet inte är tydligt beskrivet. Kontakta därför datainnehavaren och fråga först vilka uppgifter som finns, hur de är strukturerade, vilken tidsperiod de täcker, hur ofta de uppdateras och vilka kvalitetsbegränsningar som är kända.
 
-* **Planera tillgången till data tidigt.** Företag kan under vissa förutsättningar få tillgång till mikrodata, men möjligheten beror bland annat på ändamålet, sekretessreglerna och mottagarens förmåga att skydda uppgifterna. Ett forskningssamarbete med exempelvis ett universitet eller en region kan ibland vara en möjlig väg, men innebär inte automatiskt att data kan lämnas ut.
+* **Planera tillgången till data tidigt.** Företag kan under vissa förutsättningar få tillgång till personuppgifter, men möjligheten beror bland annat på ändamålet, sekretessreglerna och mottagarens förmåga att skydda uppgifterna. Ett forskningssamarbete med exempelvis ett universitet eller en region kan ibland vara en möjlig väg, men innebär inte automatiskt att data kan lämnas ut.
 
 * **Utred de juridiska kraven från början.** Om data kan kopplas till en person behöver du bland annat klargöra ändamålet, den rättsliga grunden, ansvarsfördelningen och hur uppgifterna ska lagras, skyddas och raderas. Hälsouppgifter är känsliga personuppgifter, och forskning som använder sådana uppgifter kan även kräva etikprövning.
 
