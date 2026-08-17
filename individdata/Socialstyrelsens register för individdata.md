@@ -1,4 +1,4 @@
-Socialstyrelsens register är Sveriges officiella, lagstadgade hälsodataregister. Till skillnad från de nationella kvalitetsregistren, som drivs av profession och verksamheter, är Socialstyrelsens register inrättade genom lagar och förordningar. De har i regel nationell täckning och bygger på obligatorisk rapportering från hälso- och sjukvården.
+*Socialstyrelsens register* är Sveriges officiella, lagstadgade hälsodataregister. Till skillnad från de nationella kvalitetsregistren, som drivs av profession och verksamheter, är Socialstyrelsens register inrättade genom lagar och förordningar. De har i regel nationell täckning och bygger på obligatorisk rapportering från hälso- och sjukvården.
 
 Denna sida handlar om individdata. Här kan du läsa om [Socialstyrelsens öppna data](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/Socialstyrelsens%20statistikdatabas.md). 
 
