@@ -1,6 +1,6 @@
 ## **Vad är hälsodata?**
 
-Begreppet *hälsodata* saknar en helt fastställd definition, men används ofta för att beskriva information som rör hälsa, vård eller livssituation – för en person eller för en grupp.
+Begreppet *hälsodata* har ingen entydig och allmänt vedertagen definition. Det används vanligen som ett samlingsbegrepp för information om hälsa, vård och livssituation på individ- eller gruppnivå.
 
 Det kan handla om allt från data om levnadsvanor, den fysiska miljön vi lever i och våra sociala sammanhang, till information som genereras inom hälso- och sjukvården eller genom forskning.
 
