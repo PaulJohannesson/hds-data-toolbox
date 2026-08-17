@@ -3,7 +3,7 @@ HDS Data Toolbox är en digital verktygslåda för dig som arbetar med projekt, 
 ## Det här hittar du
 
 * **[Grunder](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/%C3%96versikt.md)** – introduktioner till hälsodata, datamängder, individdata, aggregerade data samt öppna och slutna data.
-* **[Guider](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/guider.md) ** – praktiska råd om hur du identifierar ditt databehov, hittar datamängder och förbereder en förfrågan om åtkomst till data.
+* **[Guider](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/guider.md)** – praktiska råd om hur du identifierar ditt databehov, hittar datamängder och förbereder en förfrågan om åtkomst till data.
 * **Individdata** – information om bland annat nationella kvalitetsregister, myndighetsregister, biobanksregister och regionala hälsodata.
 * **Öppna data** – information om öppen data, till exempel svenska och europeiska dataportaler och statistikdatabaser.
 * **AI-agent** – ett stöd för att identifiera hälsodatamängder som kan vara relevanta för ett visst projekt eller användningsområde.
