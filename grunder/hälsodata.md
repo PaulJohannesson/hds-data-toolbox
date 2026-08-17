@@ -10,7 +10,7 @@ Hälsodata är ofta, men inte alltid, personuppgifter. I många fall kan hälsod
 
 ## **Olika typer av hälsodata**
 
-Hälsodata är ett brett begrepp och det finns många typer av hälsodata. 
+Hälsodata är ett brett begrepp och det finns många typer av hälsodata, till exempel: 
 
 **Vårddata**. Information om diagnoser, vårdåtgärder, provsvar, läkemedelsanvändning och andra behandlingar.
 
