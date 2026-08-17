@@ -14,4 +14,4 @@ För information om juridiska frågor kring hälsodata hänvisar vi till [HDS Le
 
 HDS Data Toolbox har tagits fram inom [Health Data Sweden](https://www.healthdatasweden.eu/), som stödjer små och medelstora företag samt offentlig sektor i utvecklingen av digitala lösningar inom hälsa och hälsodata.
 
-HDS Data Toolbox är under utveckling. Vi tar gärna emot förslag på förbättringar och annan feedback. Kontakta i så fall [Paul Johannesson](pajo@dsv.su.se). 
+HDS Data Toolbox är under utveckling. Vi tar gärna emot förslag på förbättringar och annan feedback. Kontakta i så fall Paul Johannesson på pajo@dsv.su.se. 
