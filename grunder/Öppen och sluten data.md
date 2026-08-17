@@ -1,5 +1,3 @@
-Vad är skillnaden mellan öppen data, sluten data, reglerad data och delad data? För data finns tre grundläggande åtkomstnivåer:
-
 Vad skiljer öppna, slutna, reglerade och delade data åt? Begreppen beskriver vem som kan få tillgång till data och under vilka villkor. Man kan skilja mellan fyra  former av dataåtkomst:
 
 ## **Öppen data**
