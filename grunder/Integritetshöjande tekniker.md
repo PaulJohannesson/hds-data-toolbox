@@ -2,13 +2,13 @@ Att pseudonymisera och anonymisera personuppgifter, särskilt känsliga sådana 
 
 ## **Vad innebär pseudonymisering?**
 
-När personuppgifter pseudonymiseras ersätter man direkta identifierare (som namn och personnummer) med en kod eller pseudonym. Eftersom det fortfarande finns en nyckel som gör det möjligt att koppla tillbaka uppgifterna till individen, anses det normalt att pseudonymiserade uppgifter fortfarande är personuppgifter enligt GDPR. Men bedömningen kan påverkas av vem som tar emot uppgifterna och vilka faktiska och rättsliga möjligheter mottagaren har att identifiera personerna. Pseudonymisering räknas dock som en effektiv teknisk skyddsåtgärd som avsevärt minskar risken för integritetsintrång.
+När personuppgifter pseudonymiseras ersätter man direkta identifierare (som namn och personnummer) med en kod eller pseudonym. Eftersom det fortfarande finns en nyckel som gör det möjligt att koppla tillbaka uppgifterna till individen, anses det normalt att pseudonymiserade uppgifter fortfarande är personuppgifter enligt GDPR. Men bedömningen kan påverkas av vem som tar emot uppgifterna och vilka faktiska och rättsliga möjligheter mottagaren har att identifiera personerna. Pseudonymisering räknas som en effektiv teknisk skyddsåtgärd som avsevärt minskar risken för integritetsintrång.
 
 ## **Hur fungerar pseudonymisering i praktiken?**
 
 Principen är att identiteten skiljs från hälsodatan genom att namn och andra identifierare ersätts med en kod. Nyckeln som länkar koden till den faktiska individen lagras separat, mycket säkert, och med stränga begränsningar kring åtkomst.  
 
-Ett exempel kan vara en hälsoapp som samlar in data från användare. I appens analysdatabas är varje individ representerad av en kod, t.ex. ”anv-XY45-B2Z9”. Namn, e-post och kod lagras separat med hög säkerhet och strikt åtkomstkontroll. Utvecklarna som analyserar hälsodatan ser endast koden, inte vem individen är. Vid behov, exempelvis om individen själv önskar det, kan man använda nyckeln för att koppla tillbaka datan till individen.
+Ett exempel kan vara en hälsoapp som samlar in data från användare. I appens analysdatabas är varje individ representerad av en kod, t.ex. ”anv-XY45-B2Z9”. Namn, e-post och kod lagras separat med hög säkerhet och strikt åtkomstkontroll. Utvecklarna som analyserar hälsodatan ser endast koden, inte vem individen är. Vid behov kan man använda nyckeln för att koppla tillbaka datan till individen.
 
 ## **Vad innebär anonymisering?**
 
@@ -16,8 +16,7 @@ Anonymisering går ett steg längre och innebär att man helt och permanent tar 
 
 ## **Utmaningar med anonymisering av hälsodata**
 
-Att uppnå äkta anonymisering av komplex hälsodata är mycket svårt. Det räcker nämligen inte att bara ta bort namn eller personnummer, eftersom en unik kombination av andra uppgifter (till exempel ålder, ort och ovanlig sjukdom) fortfarande kan göra att en individ identifieras.  
-För att anonymisera måste man därför ofta använda tekniker som:
+Att uppnå anonymisering av hälsodata på individnivå är mycket svårt. Det räcker nämligen inte att bara ta bort namn eller personnummer, eftersom en unik kombination av andra uppgifter (till exempel ålder, ort och ovanlig sjukdom) fortfarande kan göra att en individ identifieras. För att anonymisera måste man därför ofta använda tekniker som:
 
 * Maskering: ta bort detaljerad information som namn, adresser, personnummer och exakta datum.  
 * Generalisering: göra information mindre exakt, exempelvis ändra ”47 år” till ”åldersgrupp 40–50 år” eller ”Kalmar” till ”södra Sverige”.  
@@ -57,12 +56,3 @@ Sammanfattningsvis är pseudonymisering ofta det praktiska förstahandsvalet nä
 Anonymisering ger stor regulatorisk frihet om den verkligen uppnås, men det är svårt för komplex hälsodata och leder ofta till en betydande försämring av datans användbarhet.  
 
 Syntetisering erbjuder en modern medelväg, som potentiellt kan ge både regulatorisk frihet och hög datanytta, vilket gör det till ett intressant alternativ för innovation och AI-utveckling. Det ställer dock höga krav på teknisk kompetens för att säkerställa att datan är både korrekt representativ och säker ur integritetssynpunkt.
-
-## **Läs mer**
-
-* Integritetsskyddsmyndigheten: **Blanda inte ihop anonymisering med pseudonymisering** (översikt och exempel). [https://www.imy.se/verksamhet/dataskydd/innovationsportalen/vi-guidar-dig/vi-hanterar-bara-anonymiserade-personuppgifter-da-kan-vi-val-bortse-fran-gdpr/](https://www.imy.se/verksamhet/dataskydd/innovationsportalen/vi-guidar-dig/vi-hanterar-bara-anonymiserade-personuppgifter-da-kan-vi-val-bortse-fran-gdpr/)  
-* Integritetsskyddsmyndigheten: **Snabbguide om pseudonymisering** (sammanfattar Europeiska dataskyddsstyrelsens riktlinjer). [https://www.imy.se/nyheter/snabbguide-om-pseudonymisering](https://www.imy.se/nyheter/snabbguide-om-pseudonymisering) 
-
-* Europeiska dataskyddsstyrelsen: **Guidelines 01/2025 on Pseudonymisation** (tekniska och organisatoriska krav). [https://www.edpb.europa.eu/system/files/2025-01/edpb\_guidelines\_202501\_pseudonymisation\_en.pdf](https://www.edpb.europa.eu/system/files/2025-01/edpb_guidelines_202501_pseudonymisation_en.pdf) 
-
-* CJEU Judgment in Case C-413/23 P. Viktig dom från EU-domstolen som klargör att en datamängd som är persondata i en organisation inte nödvändigtvis är persondata i en annan organisation. [https://curia.europa.eu/juris/document/document.jsf?docid=303863](https://curia.europa.eu/juris/document/document.jsf?docid=303863). Läs mer på [https://www.taylorwessing.com/en/insights-and-events/insights/2025/09/analysis-of-the-cjeu-judgment](https://www.taylorwessing.com/en/insights-and-events/insights/2025/09/analysis-of-the-cjeu-judgment) 
