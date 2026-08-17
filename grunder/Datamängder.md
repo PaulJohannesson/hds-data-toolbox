@@ -14,7 +14,7 @@ Exempel: En datamängd kan bestå av journaldata från en vårdenhet, mätvärde
 
 ## **Databas – den tekniska lagringslösningen**
 
-En **databas** är en teknisk struktur som används för att lagra, organisera och hantera datamängder på ett effektivt sätt. Databaser kan vara av olika typer, till exempel relationsdatabaser (SQL) eller dokumentdatabaser (NoSQL). Databasen hanterar alltså **hur** informationen sparas och söks fram – inte **vad** den handlar om eller **varför** den samlas in.
+En **databas** är en teknisk struktur som används för att lagra, organisera och hantera datamängder på ett effektivt sätt. Databaser kan vara av olika typer, till exempel relationsdatabaser (SQL) eller dokumentdatabaser (NoSQL). Databasen hanterar alltså *hur* informationen sparas och söks fram – inte *vad* den handlar om eller *varför* den samlas in.
 
 ## **Dataregister – ett system med syfte och struktur**
 
