@@ -2,15 +2,15 @@ Att hitta rätt hälsodata handlar inte bara om att veta var data finns. Du beh�
 
 ## Våra tips
 
-* **Börja med syftet.** Beskriv vilken fråga som ska besvaras eller vilken funktion som ska utvecklas. Först därefter är det möjligt att avgöra vilka variabler, populationer och tidsperioder som behövs.
+* **Börja med syftet.** Beskriv vilken fråga som ska besvaras eller vilken funktion i en produkt som ska utvecklas. Först därefter är det möjligt att avgöra vilka variabler, populationer och tidsperioder som behövs.
 
 * **Begränsa datamängden.** Utgå från den minsta mängd data och den lägsta detaljnivå som är tillräcklig för syftet. Tänk samtidigt på att data måste vara tillräckligt representativa för att analyser och modeller ska ge tillförlitliga resultat.
 
-* **Välj rätt typ av data.** Undersök först om öppna, aggregerade, anonymiserade eller syntetiska data är tillräckliga. Om analysen kräver uppgifter på individnivå behöver du ta reda på om pseudonymiserade mikrodata kan göras tillgängliga och vilka villkor som då gäller.
+* **Välj rätt typ av data.** Undersök först om öppna, aggregerade, anonymiserade eller syntetiska data är tillräckliga. Om analysen kräver uppgifter på individnivå behöver du ta reda på om sådana data kan göras tillgängliga och vilka villkor som då gäller.
 
-* **Använd begreppen noggrant.** Anonymiserade och pseudonymiserade data är inte samma sak. Pseudonymiserade uppgifter kan fortfarande vara personuppgifter, medan anonymiserade uppgifter inte ska kunna kopplas till en individ. Aggregerade data är sammanställda på gruppnivå, men är inte automatiskt anonyma i alla situationer. Läs mer hos [Integritetsskyddsmyndigheten](https://www.imy.se/verksamhet/dataskydd/innovationsportalen/vi-guidar-dig/vi-hanterar-bara-anonymiserade-personuppgifter-da-kan-vi-val-bortse-fran-gdpr/).
+* **Använd begreppen noggrant.** Anonymiserade och pseudonymiserade data är inte samma sak. Pseudonymiserade uppgifter kan fortfarande vara personuppgifter, medan anonymiserade uppgifter inte ska kunna kopplas till en individ. Aggregerade data är sammanställda på gruppnivå, men är inte automatiskt anonyma i alla situationer. [Läs mer om skillnaden](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Integritetsh%C3%B6jande%20tekniker.md).
 
-* **Kartlägg datakällan innan du beställer data.** En formell begäran om mikrodata kan vara svår att bedöma om behovet inte är tydligt beskrivet. Kontakta därför datainnehavaren och fråga först vilka uppgifter som finns, hur de är strukturerade, vilken tidsperiod de täcker, hur ofta de uppdateras och vilka kvalitetsbegränsningar som är kända.
+* **Kartlägg datamängden innan du beställer data.** En formell begäran om åtkomst till data kan vara svår att bedöma om behovet inte är tydligt beskrivet. Kontakta därför datainnehavaren och fråga först vilka uppgifter som finns, hur de är strukturerade, vilken tidsperiod de täcker, hur ofta de uppdateras och vilka kvalitetsbegränsningar som är kända.
 
 * **Planera tillgången till data tidigt.** Företag kan under vissa förutsättningar få tillgång till mikrodata, men möjligheten beror bland annat på ändamålet, sekretessreglerna och mottagarens förmåga att skydda uppgifterna. Ett forskningssamarbete med exempelvis ett universitet eller en region kan ibland vara en möjlig väg, men innebär inte automatiskt att data kan lämnas ut.
 
