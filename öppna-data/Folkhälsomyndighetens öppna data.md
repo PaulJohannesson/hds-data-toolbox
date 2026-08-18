@@ -18,7 +18,7 @@ De öppna, aggregerade uppgifterna omfattar ett brett urval av indikatorer om h�
 
 Folkhälsomyndigheten erbjuder två öppna, webbaserade verktyg som bygger på samma datamängder och som uppdateras löpande:
 
-* [Folkhälsodata](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistikdatabaser/folkhalsodata-och-folkhalsostudio/):  för sök, urval och nedladdning av tabeller (passar analys och vidarebearbetning)   
-* [FolkhälsoStudio](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistikdatabaser/folkhalsodata-och-folkhalsostudio/om-folkhalsostudio/): för interaktiva visualiseringar, kartor och presentationer (passar kommunikation och snabb överblick) 
+* [Folkhälsodata](https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/pxweb/sv/A_Folkhalsodata/A_Folkhalsodata/):  för sök, urval och nedladdning av tabeller (passar analys och vidarebearbetning)   
+* [FolkhälsoStudio](https://www.folkhalsomyndigheten.se/faktablad/datavisualisering/): för interaktiva visualiseringar, kartor och presentationer (passar kommunikation och snabb överblick) 
 
 Notera att resultaten från till exempel Miljöhälsoenkäten finns tillgängliga i båda verktygen.  
