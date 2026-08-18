@@ -1,4 +1,4 @@
-Regionala hälsodata avser uppgifter om en individ eller grupps hälsa, vård eller livssituation som primärt samlas in och lagras av Sveriges 21 regioner i deras roll som vårdgivare.
+Regionala hälsodata avser uppgifter om en individs eller grupps hälsa, vård eller livssituation som primärt samlas in och lagras av Sveriges 21 regioner i deras roll som vårdgivare.
 
 ## **Syfte**
 
@@ -19,7 +19,7 @@ Flera regioner har inrättat särskilda funktioner som samordnar och stöttar vi
 * **Västra Götalandsregionen – Gothia Forum**: regional nod som erbjuder stöd genom hela processen för kliniska studier och fungerar som kontaktpunkt för forskare och företag.  
    [Läs mer om Gothia Forum](https://www.vgregion.se/ov/gothia-forum)
   
-På nationell nivå samordnar **Kliniska Studier Sverige** stödet för kliniska studier i samarbete mellan de sex sjukvårdsregionerna. Strukturen är federerad med regionala noder som tillsammans utgör en gemensam infrastruktur.  
+På nationell nivå samordnar **Kliniska Studier Sverige** stödet för kliniska studier i samarbete med de sex sjukvårdsregionerna. Strukturen är federerad med regionala noder som tillsammans utgör en gemensam infrastruktur.  
 [Läs mer om Kliniska Studier Sverige](https://www.kliniskastudier.se/)  
 
 Processen för att få tillgång till regionala data innefattar vanligtvis etikprövning, sekretessprövning och avtal om informationssäkerhet. Krav och handläggning varierar mellan regionerna. Information om hur man kan begära uttag av hälsodata från de olika regionerna finns på [denna lista](https://kliniskastudier.se/forskningsstod-och-radgivning/uttag-av-halsodata) från Kliniska Studier Sverige.
