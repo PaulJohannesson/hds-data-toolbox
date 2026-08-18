@@ -13,9 +13,9 @@ Individdata som är hälsodata är nästan alltid personuppgifter, eftersom det 
 ## **Aggregerad data**  
 Aggregerad data är information där mikrodata har slagits samman på gruppnivå (till exempel per region, kön eller månad) för att ge en översikt. Aggregerad data kan exempelvis uttryckas i antal, andelar, medelvärden, medianer eller percentiler. Datan beskriver alltså en grupp, inte en individ. Här är exempel på aggregerade data (relaterade till individdata ovan):
 
-* Statistik från en vårdcentral: "12% av våra listade patienter över 65 år hade diagnosen hypertoni under 2024." (Man kan inte se vad patient 700101-1234 hade.)  
-* En trendrapport från en hälso-app: "Våra svenska användare gick i genomsnitt 6 200 steg per dag förra månaden." (Man kan inte se vad `anna@epost.se` gjorde.)  
-* Statistik från Folkhälsomyndigheten: "Vaccinationstäckningen för dos 1 i riket är 88%." (Man kan inte se Individ 9876:s status.)
+* Statistik från en vårdcentral: ”12 % av våra listade patienter över 65 år hade diagnosen hypertoni under 2024.” (Man kan inte se vad patient 700101-1234 hade.)  
+* En trendrapport från en hälso-app: ”Våra svenska användare gick i genomsnitt 6 200 steg per dag förra månaden.” (Man kan inte se vad `anna@epost.se` gjorde.)  
+* Statistik från Folkhälsomyndigheten: ”Vaccinationstäckningen för dos 1 i riket är 88 %.” (Man kan inte se Individ 9876:s status.)
 
 
 Observera att aggregering inte alltid är anonymisering—för små grupper kan återidentifiering fortfarande vara möjlig.
@@ -29,5 +29,5 @@ Observera att aggregering inte alltid är anonymisering—för små grupper kan 
 | Syfte | Detaljerad analys, förstå enskilda fall. | Se övergripande trender, mönster, helheter. |
 | Identifierbarhet | Kan ofta identifiera enheten (särskilt individdata). | Enheter kan oftast inte identifieras. |
 | Process | Råmaterialet som samlas in. | Produkten man får efter bearbetning av individdata. |
-| Exempel | "Den här patienten har blodtryck 140/90." | "15% av patienterna har högt blodtryck." |
+| Exempel | "Den här patienten har blodtryck 140/90." | "15 % av patienterna har högt blodtryck." |
 
