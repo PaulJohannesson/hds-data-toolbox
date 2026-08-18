@@ -1,4 +1,4 @@
-Vetenskapsrådet har ett centralt, nationellt uppdrag att stödja och förbättra förutsättningarna för svensk registerbaserad forskning, särskilt för hälsodata. De gör detta genom finansiering, samordning och genom att tillhandahålla vägledande infrastruktur. En viktig resurs är [dataguiden.se](http://dataguiden.se). En annan resurs är Registeranvändningsverktyget RUT:
+Vetenskapsrådet har ett centralt, nationellt uppdrag att stödja och förbättra förutsättningarna för svensk registerbaserad forskning, särskilt för hälsodata. De gör detta genom finansiering, samordning och genom att tillhandahålla vägledande infrastruktur. En viktig resurs är [dataguiden.se](http://dataguiden.se). En annan resurs är Registeranvändningsverktyget RUT.
 
 ## **RUT (Registeranvändningsverktyget)**
 
