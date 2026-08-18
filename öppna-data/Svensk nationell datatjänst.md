@@ -1,4 +1,4 @@
-[Svensk nationell datatjänst](https://snd.se/sv) (SND) är en nationell forskningsinfrastruktur som hjälper till att tillgängliggöra, bevara och återanvända svensk forskningsdata. SND drivs av Göteborgs universitet i samarbete med ett konsortium av andra svenska lärosäten och forskningsorganisationer.
+[Svensk nationell datatjänst](https://snd.se/sv) (SND) är en nationell forskningsinfrastruktur som hjälper till att tillgängliggöra, bevara och återanvända svenska forskningsdata. SND drivs av Göteborgs universitet i samarbete med ett konsortium av andra svenska lärosäten och forskningsorganisationer.
 
 ## **Syfte**
 
