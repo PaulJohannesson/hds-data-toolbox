@@ -1,4 +1,4 @@
-Biobanker i Sverige lagrar mänskliga prover (som blod eller vävnad), oftast insamlade inom vården. Användningen regleras strikt av [Biobankslagen](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) för att skydda donatorns integritet och proverna får bara användas för specifika, godkända ändamål.
+Biobanker i Sverige lagrar mänskliga prover (som blod eller vävnad), oftast insamlade inom vården. Användningen regleras strikt av [Biobankslagen](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) för att skydda provgivarens integritet och proverna får bara användas för specifika, godkända ändamål.
 
 ## **Syfte**
 
