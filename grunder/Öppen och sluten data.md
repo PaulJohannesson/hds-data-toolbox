@@ -1,4 +1,4 @@
-Vad skiljer öppna, slutna, reglerade och delade data åt? Begreppen beskriver vem som kan få tillgång till data och under vilka villkor. Man kan skilja mellan fyra  former av dataåtkomst:
+Vad skiljer öppna, slutna, reglerade och delade data åt? Begreppen beskriver vem som kan få tillgång till data och under vilka villkor. Man kan skilja mellan fyra  former av dataåtkomst.
 
 ## **Öppen data**
 
