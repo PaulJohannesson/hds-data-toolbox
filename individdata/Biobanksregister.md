@@ -59,7 +59,7 @@ Praktisk vägledning och ansökningsstöd:
 
 ## **Lista över biobanksregister**
 
-Det finns inte en enda samlad lista över alla specifika "biobanksregister" på samma sätt som för kvalitetsregister, eftersom proverna ofta är kopplade till vårdenheter eller specifika forskningsprojekt.
+Det finns inte en enda samlad lista över alla specifika ”biobanksregister” på samma sätt som för kvalitetsregister, eftersom proverna ofta är kopplade till vårdenheter eller specifika forskningsprojekt.
 
 Den bästa och mest kompletta ingången är via [**Biobank Sverige**](https://biobanksverige.se/). De har ett nationellt verktyg, **[Svenska Biobanksregistret (SBR)](https://biobanksverige.se/sbr/)**, som ger en översikt över vilka provsamlingar som finns tillgängliga för forskning. 
 På denna sida kan användare söka efter och få information om:
