@@ -12,15 +12,15 @@ Hälsodata är ofta, men inte alltid, personuppgifter. I många fall kan hälsod
 
 Hälsodata är ett brett begrepp och det finns många typer av hälsodata, till exempel: 
 
-**Vårddata**. Information om diagnoser, vårdåtgärder, provsvar, läkemedelsanvändning och andra behandlingar.
+**Vårddata**. Uppgifter om diagnoser, vårdåtgärder, provsvar, läkemedelsanvändning och andra behandlingar.
 
-**Biologiska data**. Information om exempelvis ålder, genetiska data, vävnadsprover och biometrisk information.
+**Biologiska data**. Uppgifter om exempelvis genetiska data, vävnadsprover och biometrisk information.
 
 **Livsstilsdata**. Uppgifter om faktorer som påverkar hälsa, till exempel kostvanor, fysisk aktivitet, tobaksbruk och upplevd livskvalitet.
 
 **Socioekonomiska data**. Uppgifter som sätter hälsan i ett sammanhang. Det kan gälla yrke, utbildning, inkomst eller bostadsområde.
 
-**Organisatoriska data**. Information om vårdverksamheter, personalens yrken och geografisk spridning inom vården.  
+**Organisatoriska data**. Uppgifter om vårdverksamheter, personalens yrken och geografisk spridning inom vården.  
 
 **Ontologiska data**. Data som beskriver klassifikationer, kodsystem och terminologier som används för att strukturera vårdinformation.
 
