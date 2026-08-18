@@ -10,8 +10,8 @@ Folkhälsomyndighetens öppna data ger en återkommande och jämförbar bild av 
 
 De öppna, aggregerade uppgifterna omfattar ett brett urval av indikatorer om hälsa, levnadsvanor, livsvillkor, miljöfaktorer och vissa hälsoutfall. Underlaget hämtas från flera återkommande enkätundersökningar, bland andra: 
 
-* [Nationella folkhälsoenkäten ”Hälsa på lika villkor?”](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/nationella-folkhalsoenkaten/): hälsa, levnadsvanor och livsvillkor   
-* [Nationella miljöhälsoenkäten](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-datainsamlingar/miljohalsoenkaten/): exponering och besvär kopplade till miljön  
+* [Nationella folkhälsoenkäten ”Hälsa på lika villkor?”](https://www.folkhalsomyndigheten.se/statistik-och-data/om-vara-data/om-vara-datainsamlingar/nationella-folkhalsoenkaten/): hälsa, levnadsvanor och livsvillkor   
+* [Nationella miljöhälsoenkäten](https://www.folkhalsomyndigheten.se/statistik-och-data/om-vara-data/om-vara-datainsamlingar/miljohalsoenkaten/): exponering och besvär kopplade till miljön  
 * [Skolbarns hälsovanor](https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/tolkad-rapportering/skolbarns-halsovanor/): internationell studie om barns och ungas livsvillkor, levnadsvanor och hälsa 
 
 ## **Få tillgång till data**
