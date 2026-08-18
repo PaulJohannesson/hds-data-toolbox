@@ -2,15 +2,19 @@ Ett *nationellt kvalitetsregister* är ett dataregister som systematiskt samlar 
 
 Sverige har en lång tradition av hälsodataregister, med rötter i Cancerregistret från 1958. De moderna kvalitetsregistren växte fram under 1970- och 1980-talen, ofta initierade av vårdprofessioner som ville följa sina resultat systematiskt.
 
-Ansvar för ett kvalitetsregister är vanligtvis delat:
+## Organisation och ansvar
 
-* **Registerhållare**: operativt ansvarig organisation – oftast en region eller klinik
+Ett nationellt kvalitetsregister är knutet till flera aktörer med olika roller och ansvarsområden.
 
-* **Styrgrupp**: nationellt forum med representanter från profession, patienter och forskare
+* **CPUA-myndigheten** är den centralt personuppgiftsansvariga myndigheten för registret. Det är en myndighet inom hälso- och sjukvården, exempelvis en regionstyrelse eller en nämnd inom en region eller kommun. CPUA-myndigheten har det yttersta ansvaret för behandlingen av personuppgifter samt för registrets drift, förvaltning, ekonomi och interna kontroll.
 
-* **Centralt personuppgiftsansvarig (CPUA)**: juridisk aktör som ansvarar för GDPR-efterlevnad
+* **Registerhållaren** är en fysisk person som arbetar på uppdrag av CPUA-myndigheten. Registerhållaren leder det verksamhetsnära arbetet med att utveckla registrets innehåll, användbarhet och datakvalitet, men har inte det formella personuppgiftsansvaret.
 
-* **SKR (Sveriges Kommuner och Regioner)**: nationell samordnare som stödjer och finansierar registren
+* **Registerstyrgruppen** har en rådgivande roll och består vanligtvis av företrädare för berörda vårdprofessioner och sjukvårdsregioner. Tillsammans med registerhållaren arbetar gruppen med registrets innehåll, variabler, datakvalitet, återrapportering och användning i förbättringsarbete, uppföljning och forskning.
+
+* **Registercentrum och regionala cancercentrum** ger stöd inom bland annat IT, administration, statistik, analys och tillgängliggörande av data. De arbetar på uppdrag av berörda CPUA-myndigheter och har inte det yttersta ansvaret för registren.
+
+* **Rapporterande vårdgivare** är lokalt personuppgiftsansvariga för den behandling av personuppgifter som de själva utför när uppgifter rapporteras till eller hämtas från registret.
 
 ## **Syfte**
 
