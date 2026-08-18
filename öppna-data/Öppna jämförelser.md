@@ -22,4 +22,4 @@ All data i Öppna Jämförelser är offentlig och tillgänglig för alla. Man hi
 
 **Socialstyrelsen:** Publicerar [Öppna Jämförelser](https://www.socialstyrelsen.se/statistik-och-data/oppna-jamforelser) på sin webbplats. Mycket av datan finns tillgänglig i deras statistikdatabas, där användare själva kan filtrera och ta fram tabeller.
 
-**Sveriges Kommuner och Regioner (SKR):** För den regionala hälso- och sjukvården är den primära källan numera webbplatsen [Vården i siffror](%20https://vardenisiffror.se/](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/V%C3%A5rden%20i%20siffror.md). Denna portal samlar de flesta av de kvalitets- och tillgänglighetsindikatorer som tidigare publicerades i de statiska rapporterna.
+**Sveriges Kommuner och Regioner (SKR):** För den regionala hälso- och sjukvården är den primära källan numera webbplatsen [Vården i siffror](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/%C3%B6ppna-data/V%C3%A5rden%20i%20siffror.md). Denna portal samlar de flesta av de kvalitets- och tillgänglighetsindikatorer som tidigare publicerades i de statiska rapporterna.
