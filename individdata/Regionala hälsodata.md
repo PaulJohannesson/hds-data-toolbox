@@ -2,7 +2,7 @@ Regionala hälsodata avser uppgifter om en individ eller grupps hälsa, vård el
 
 ## **Syfte**
 
-Syftet med regionala data är i första hand att stödja den direkta vården av patienter. De kan också, efter prövning och enligt gällande regelverk, användas för sekundära ändamål som uppföljning, statistik, kvalitetsutveckling och forskning.
+Syftet med regionala data är i första hand att stödja den direkta vården av patienter. De kan också användas för sekundära ändamål som uppföljning, statistik, kvalitetsutveckling och forskning.
 
 ## **Innehåll**
 
@@ -15,12 +15,12 @@ Sveriges hälso- och sjukvård är decentraliserad. Varje region har långtgåen
 Flera regioner har inrättat särskilda funktioner som samordnar och stöttar vid ansökningar om data för sekundäranvändning:
 
 * **Region Stockholm – Centrum för hälsodata**: väg in för frågor, rådgivning och samordning av datauttag för forskning och innovation.  
-  [Läs mer](https://www.regionstockholm.se/forskning-innovation/halsodata/)  
+  [Läs mer om Centrum för hälsodata](https://www.regionstockholm.se/forskning-innovation/halsodata/)  
 * **Västra Götalandsregionen – Gothia Forum**: regional nod som erbjuder stöd genom hela processen för kliniska studier och fungerar som kontaktpunkt för forskare och företag.  
-   [Läs mer](https://www.vgregion.se/ov/gothia-forum)
+   [Läs mer om Gothia Forum](https://www.vgregion.se/ov/gothia-forum)
   
 På nationell nivå samordnar **Kliniska Studier Sverige** stödet för kliniska studier i samarbete mellan de sex sjukvårdsregionerna. Strukturen är federerad med regionala noder som tillsammans utgör en gemensam infrastruktur.  
-[Läs mer](https://www.kliniskastudier.se/)  
+[Läs mer om Kliniska Studier Sverige](https://www.kliniskastudier.se/)  
 
 Processen för att få tillgång till regionala data innefattar vanligtvis etikprövning, sekretessprövning och avtal om informationssäkerhet. Krav och handläggning varierar mellan regionerna. Information om hur man kan begära uttag av hälsodata från de olika regionerna finns på [denna lista](https://kliniskastudier.se/forskningsstod-och-radgivning/uttag-av-halsodata) från Kliniska Studier Sverige.
 
