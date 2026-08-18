@@ -8,7 +8,7 @@ Socialstyrelsens statistikdatabas gör det möjligt för beslutsfattare, företa
 
 ## **Innehåll**
 
-Statistikdatabasen innehåller **aggregerad** och **anonym** statistik som huvudsakligen hämtas från Socialstyrelsens nationella register samt särskilda statistikinsamlingar. Det går att  ta fram tabeller, diagram och kartor inom många ämnen, till exempel:
+Statistikdatabasen innehåller statistik som huvudsakligen utgår från Socialstyrelsens nationella register samt särskilda statistikinsamlingar. Det går att  ta fram tabeller, diagram och kartor inom många ämnen, till exempel:
 
 * **Diagnoser och vårdutnyttjande** (Patientregistret)
 
