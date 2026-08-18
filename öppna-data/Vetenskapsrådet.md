@@ -6,6 +6,6 @@ Vetenskapsrådet har ett centralt, nationellt uppdrag att stödja och förbättr
 
 * **Syfte:** Verktyget är till för att **planera forskningsstudier**. En forskare kan använda RUT för att i detalj se:  
   * Vilka register som finns hos olika svenska myndigheter  
-  * Exakt vilka variabler (t.ex. "diagnoskod", "operationsdatum", "inkomst") som finns i varje register  
+  * Exakt vilka variabler (t.ex. "diagnoskod”, ”operationsdatum”, ”inkomst”) som finns i varje register  
   * Information om variablernas innebörd, vilken tidsperiod de täcker och hur de har samlats in  
 * **Nyttan:** En forskare kan använda RUT för att utforma sin studie och i sin ansökan precisera exakt vilka variabler som forskaren behöver tillgång till.
