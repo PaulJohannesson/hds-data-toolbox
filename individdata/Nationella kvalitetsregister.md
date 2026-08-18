@@ -42,7 +42,7 @@ Vad ett kvalitetsregister samlar in varierar beroende på diagnos eller behandli
 
 Datainsamlingen sker ofta vid flera tidpunkter: vid diagnos, behandling och långtida uppföljning. Källor är journaldata och ibland patientenkäter.
 
-### **Få tillgång till data**
+## **Få tillgång till data**
 
 För att erhålla data ur ett nationellt kvalitetsregister krävs ofta följande steg:
 
