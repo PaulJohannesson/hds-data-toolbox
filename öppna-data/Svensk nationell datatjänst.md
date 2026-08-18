@@ -1,4 +1,4 @@
-Svensk nationell datatjänst (SND) är en nationell forskningsinfrastruktur som hjälper till att tillgängliggöra, bevara och återanvända svensk forskningsdata. SND drivs av Göteborgs universitet i samarbete med ett konsortium av andra svenska lärosäten och forskningsorganisationer.
+[Svensk nationell datatjänst](https://snd.se/sv) (SND) är en nationell forskningsinfrastruktur som hjälper till att tillgängliggöra, bevara och återanvända svensk forskningsdata. SND drivs av Göteborgs universitet i samarbete med ett konsortium av andra svenska lärosäten och forskningsorganisationer.
 
 ## **Syfte**
 
@@ -6,7 +6,7 @@ SND hjälper forskare att göra digitala forskningsdata tillgängliga och sökba
 
 ## **Innehåll**
 
-SND hanterar och tillgängliggör metadata om alla typer av digitala forskningsdata från en stor mängd vetenskapliga områden, inklusive samhällsvetenskap, humaniora, medicin och naturvetenskap. Innehållet består inte primärt av själva datamängderna, utan snarare av beskrivningar (metadata) som gör dem sökbara och förståeliga. Kärnan i SND:s verksamhet är en omfattande katalog med tusentals beskrivningar av datamängder. Katalogen innehåller både data som är direkt nedladdningsbara och data som kräver en beställning från den dataansvariga organisationen.   
+SND hanterar och tillgängliggör metadata om alla typer av digitala forskningsdata från en stor mängd vetenskapliga områden, inklusive samhällsvetenskap, humaniora, medicin och naturvetenskap. Innehållet består inte primärt av själva datamängderna, utan snarare av beskrivningar (metadata) som gör dem sökbara och förståeliga. Kärnan i SND:s verksamhet är en omfattande katalog med tusentals beskrivningar av datamängder.   
 
 ## **Få tillgång till data**
 
