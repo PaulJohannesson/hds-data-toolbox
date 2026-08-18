@@ -2,7 +2,7 @@ Vården i siffror är en plattform för att löpande publicera data om hälso- o
 
 ## **Syfte**
 
-Plattformen ger faktaunderlag för analys och förbättringsarbete, främst för dem som arbetar med ledning, styrning och planering inom hälso- och sjukvård, men även för andra intressenter, till exempel politiker, journalister och allmänheten.
+Plattformen ger faktaunderlag för analys och förbättringsarbete, främst för dem som arbetar med ledning, styrning och planering inom hälso- och sjukvård, men även för andra intressenter, till exempel politiker, journalister,företag och allmänheten.
 
 ## **Innehåll**
 
