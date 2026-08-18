@@ -10,4 +10,4 @@ Europeiska dataportalen fungerar som en metadatakatalog som samlar in beskrivnin
 
 ## **Få tillgång till data**
 
-Informationen är öppen och kostnadsfri att använda; portalen länkar i regel vidare till den ursprungliga datahållaren. För företag som arbetar med hälsodata innebär detta att man identifierar datamängden i data.europa.eu och därefter följer länken till respektive källa (till exempel EU-myndighet eller nationell portal) för att hämta data i maskinläsbart format enligt publicerad licens.
+Informationen är öppen och kostnadsfri att använda; portalen länkar i regel vidare till den ursprungliga datahållaren. För företag som arbetar med hälsodata innebär detta att man identifierar datamängden i [data.europa.eu](https://data.europa.eu/sv) och därefter följer länken till respektive källa (till exempel EU-myndighet eller nationell portal) för att hämta data i maskinläsbart format enligt publicerad licens.
