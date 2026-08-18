@@ -8,11 +8,11 @@ Biobanker i Sverige är en nationell resurs för vård och forskning. De kan anv
 
 ### **Kort förklaring av begreppen**
 
-**Biobank** är den fysiska samlingen av mänskliga prover, till exempel blod, vävnad eller saliv, som förvaras och används för vård och forskning under en utsedd huvudmans ansvar.
+*Biobank* är den fysiska samlingen av mänskliga prover, till exempel blod, vävnad eller saliv, som förvaras och används för vård och forskning under en utsedd huvudmans ansvar.
 
-Prover organiseras ofta i **provsamlingar** med ett definierat syfte, en population och en tidsperiod. En biobank kan innehålla många provsamlingar. Ett praktiskt sätt att tänka är: biobanken är arkivskåpet, och varje provsamling är en mapp i skåpet.
+Prover organiseras ofta i *provsamlingar* med ett definierat syfte, en population och en tidsperiod. En biobank kan innehålla många provsamlingar. Ett praktiskt sätt att tänka är: biobanken är arkivskåpet, och varje provsamling är en mapp i skåpet.
 
-**Biobanksregister** är det informationssystem som beskriver vad biobanken innehåller. Registret lagrar uppgifter och metadata om prover och provsamlingar, till exempel provtyp, provtagningsdatum, förvaringsplats och [villkor för användning](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/).
+*Biobanksregister* är det informationssystem som beskriver vad biobanken innehåller. Registret lagrar uppgifter och metadata om prover och provsamlingar, till exempel provtyp, provtagningsdatum, förvaringsplats och [villkor för användning](https://www.ivo.se/vard-omsorgsgivare/anmal-verksamhet-register/biobanksregistret/).
 
 ### **Vad innehåller ett biobanksregister?**
 
@@ -61,7 +61,7 @@ Praktisk vägledning och ansökningsstöd:
 
 Det finns inte en enda samlad lista över alla specifika "biobanksregister" på samma sätt som för kvalitetsregister, eftersom proverna ofta är kopplade till vårdenheter eller specifika forskningsprojekt.
 
-Den bästa och mest kompletta ingången är via [**Biobank Sverige**](https://biobanksverige.se/). De har ett nationellt verktyg, **[Svenska Biobanksregistret (SBR)](https://biobanksverige.se/forskning/svenska-biobanksregistret/)**, som ger en översikt över vilka provsamlingar som finns tillgängliga för forskning. 
+Den bästa och mest kompletta ingången är via [**Biobank Sverige**](https://biobanksverige.se/). De har ett nationellt verktyg, **[Svenska Biobanksregistret (SBR)](https://biobanksverige.se/sbr/)**, som ger en översikt över vilka provsamlingar som finns tillgängliga för forskning. 
 På denna sida kan användare söka efter och få information om:
 
 * Vilka provsamlingar som finns inom olika diagnosområden (till exempel cancer, hjärt-kärlsjukdom, neurologi).  
