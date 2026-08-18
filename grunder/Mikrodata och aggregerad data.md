@@ -5,7 +5,7 @@ Enkelt uttryckt är skillnaden att mikrodata/individdata handlar om enskilda enh
 Mikrodata är data som beskriver egenskaper hos en enskild enhet. Om den enheten är en person kallas det ofta individdata. Om enheten är något annat (ett företag, en bil, en transaktion) är mikrodata en vanligare allmän term. Här är några exempel på individdata:
 
   * En rad i ett patientregister som visar: `Personnummer: 700101-1234, Besöksdatum: 2025-10-23, Diagnos: Hypertoni (I10), Mätt blodtryck: 145/92`.  
-  * Data från en hälso-app: `Användare: anna@epost.se, Datum: 2025-10-22, Steg: 8 450, Vilopuls: 62`.  
+  * Data från en hälsoapp: `Användare: anna@epost.se, Datum: 2025-10-22, Steg: 8 450, Vilopuls: 62`.  
   * En post i ett nationellt register: `Individ-ID: 9876, Vaccination: Ja, Dos 1 (Pfizer), Datum: 2024-03-10`.
 
 Individdata som är hälsodata är nästan alltid personuppgifter, eftersom det är mycket svårt att [anonymisera hälsodata](https://github.com/PaulJohannesson/hds-data-toolbox/blob/main/grunder/Integritetsh%C3%B6jande%20tekniker.md).
