@@ -1,6 +1,6 @@
 Ett *nationellt kvalitetsregister* är ett dataregister som systematiskt samlar in individbaserade data om diagnoser, behandlingar och resultat inom svensk hälso- och sjukvård. Dessa register gör det möjligt att jämföra vårdresultat mellan olika vårdgivare, regioner och över tid. Det finns över 150 nationella kvalitetsregister i Sverige.
 
-Sverige har lång tradition av hälsodataregister, med rötter i Cancerregistret från 1958\. De moderna kvalitetsregistren växte fram under 1970- och 80-talen, ofta initierade av vårdprofessioner som ville följa sina resultat systematiskt.
+Sverige har en lång tradition av hälsodataregister, med rötter i Cancerregistret från 1958. De moderna kvalitetsregistren växte fram under 1970- och 1980-talen, ofta initierade av vårdprofessioner som ville följa sina resultat systematiskt.
 
 Ansvar för ett kvalitetsregister är vanligtvis delat:
 
@@ -44,7 +44,7 @@ För att erhålla data ur ett nationellt kvalitetsregister krävs ofta följande
 
 1. **Ansökan**: ange syfte, vilka data som behövs och analysplan
 
-2. **Etikprövning**: för forskningsändamål krävs godkännande från etikprövningsmyndighet
+2. **Etikprövning**: för forskningsändamål krävs godkännande från Etikprövningsmyndigheten
 
 3. **Sekretessprövning**: registerhållaren bedömer att utlämnandet inte strider mot lagar och skyddar integriteten
 
